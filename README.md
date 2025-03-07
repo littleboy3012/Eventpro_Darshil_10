@@ -34,5 +34,7 @@ Many students seek short-term temporary work to earn extra income, but no struct
 - Expand the platform to multiple cities based on demand.
 - Add a dispute resolution system for payments and job-related issues.
 
+VIDEO DEMONSTRATION LINK:
+https://drive.google.com/file/d/1EPEgG3phoCoPlgD5iHIlgBN5Y6EHQ6FX/view?usp=sharing
 
 
